@@ -50,7 +50,7 @@ int main() {
         std::cout << numero << " ";
     }
     std::cout << std::endl;
-
+//proyecto listas dobles, la conjunta va en base al proyecto
     return 0;
 }
 //
